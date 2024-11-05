@@ -9,13 +9,25 @@ Frontend: Fully responsive interface, delivering an intuitive experience for cre
 Database: Automatically generated relational database structure that manages questions and their corresponding answer options.
 🛠️ Technologies Used
 
-Backend: Java, Spring Boot, JPA (Java Persistence API)
-Frontend: HTML, CSS, JavaScript
-Database: MySQL
+Backend: 
+Java, 
+Spring Boot, 
+JPA (Java Persistence API)
+
+Frontend:
+HTML, 
+CSS, 
+JavaScript
+
+Database: 
+MySQL
 
 Prerequisites
-Java 21
-MySQL
+
+Java 21,
+
+MySQL,
+
 Maven
 
 📊 Database Schema
